@@ -1,0 +1,12 @@
+l,e,f,t
+u,p
+u,p
+l,e,f,t
+d,o,w,n
+d,o,w,n
+r,i,g,h,t
+u,p
+l,e,f,t
+d,o,w,n
+r,i,g,h,t
+r,i,g,h,t
