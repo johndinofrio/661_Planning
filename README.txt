@@ -3,7 +3,8 @@ John DiNofrio
 661 - Planning for Autonomous Robots
 Project 1: 8 Puzzle Problem
 
-Note: Code takes a while to run
+Note:   Code takes a while to run
+        No solvability check
 
 #Step Zero: Imported Libraries
 import numpy as np
